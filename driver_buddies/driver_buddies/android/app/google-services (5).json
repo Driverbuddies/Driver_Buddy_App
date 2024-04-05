@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "706892114240",
+    "project_id": "new-firebase-setup-e0f49",
+    "storage_bucket": "new-firebase-setup-e0f49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706892114240:android:f99b17be66c0a03d7cf2a5",
+        "android_client_info": {
+          "package_name": "com.example.driver_buddies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706892114240-b36p6ctk4s33ahoj2i8blpvarv7tprrn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.driver_buddies",
+            "certificate_hash": "5799982a281ec526a39b8ad98d35cb3d24d1473c"
+          }
+        },
+        {
+          "client_id": "706892114240-f3674sf0ap9pv9euli4977v1qgirlmsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc-Uh6f8uA9Ag3BXQwdmmR2AkXCUYKAGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706892114240-f3674sf0ap9pv9euli4977v1qgirlmsg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "706892114240-0003opmbk1d754frsudt4f7nplaq0kci.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.userBuddies"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706892114240:android:5a2a19c7a9eaff0c7cf2a5",
+        "android_client_info": {
+          "package_name": "com.example.user_buddies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706892114240-97shqb521ocvpa3so991bgfgveiocdbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user_buddies",
+            "certificate_hash": "5799982a281ec526a39b8ad98d35cb3d24d1473c"
+          }
+        },
+        {
+          "client_id": "706892114240-f3674sf0ap9pv9euli4977v1qgirlmsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc-Uh6f8uA9Ag3BXQwdmmR2AkXCUYKAGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706892114240-f3674sf0ap9pv9euli4977v1qgirlmsg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "706892114240-0003opmbk1d754frsudt4f7nplaq0kci.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.userBuddies"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
